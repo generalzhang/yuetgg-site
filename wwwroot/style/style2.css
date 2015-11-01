@@ -1,0 +1,126 @@
+/* CSS Document */
+#center{
+	margin:5px auto;
+	height:500px;
+	width:1024px;
+}
+#left{
+	height:500px;
+	width:250px;
+	margin:0px;
+	float:left;
+	
+}
+#left font{
+	font-size:14px;
+	text-align:left;
+}
+#left p{
+	font-size:14px;
+	line-height:1.5em;
+	padding-left:5px;
+}
+#left1{
+	margin-top:30px;
+	height:200px;
+}
+#left1 ul {}
+#left1 ul li { list-style:none; margin-top:10px; }
+#left-top{
+	background-image:url(../images/other/buttom.png);
+	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="images/other/buttom.png");/* IE6 */
+    _ background-image: none; /* IE6 */
+	width:248px;
+	height:54px;
+	text-align:center;
+}
+#left-top p{
+	padding-top:15px;
+}
+#right{
+	padding-top:5px;
+	float:right;
+	width:744px;
+	height:500px;
+	text-align:left;
+	line-height:25px;
+	}
+#right-top{
+	height:39px;
+	width:744px;
+	background-image:url(../images/home/middle_top.png);
+
+}
+#right-top-img{
+	width:32px;
+	height:30px;
+	float:left;
+	padding-top:5px;
+	padding-left:5px;
+}
+ h1{ font-size:15px;padding-left:55px; font-weight:normal; padding-top:10px;}
+ #title{border-bottom:dashed #666 1px; font-size:16px;width:600px; padding-left:20px;padding-bottom:10px; text-align:center;}
+#right-top p{
+	font-weight:bold;
+	font-size:15px;
+}
+#right-bottom,#right-bottom-recruit {
+	height:448px;
+	width:744px;
+	border-top:solid 1px #999;
+	border-left: solid 1px #999;
+}
+
+#project_content{
+width: 600px;
+height: auto;
+overflow: hidden;
+margin-top: 30px;
+margin-right: auto;
+margin-bottom: 30px;
+margin-left: auto;
+text-align:center;
+}
+#right-bottom p{
+	padding-right:20px;
+	padding-left:30px;
+	padding-top:10px;
+	font-size:14px;
+	line-height:23px;
+	
+}
+#right-bottom font{
+	font-weight:bolder;
+	font-size:14px;
+	line-height:3em;
+}
+
+#right-bottom-project{
+	height:450px;
+	width:744px;
+	border-top:solid 1px #999;
+	border-left: solid 1px #999;
+	}
+#right-bottom-project ul{padding-left:20px;padding-top:10px;margin:0px;height:150px; margin-top:15px;}
+#right-bottom-project li{
+	margin-left:20px;
+	display:block;
+	float:left;
+}
+#right-bottom-project img{
+	width:200px;
+	height:120px;
+	border:#999 solid 1px;
+}
+a{
+	color:#333;
+	}
+
+
+
+
+
+
+
+
+

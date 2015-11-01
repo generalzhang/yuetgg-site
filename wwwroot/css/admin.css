@@ -1,0 +1,178 @@
+@charset "gb2312";
+/* CSS Document */
+
+body{
+	font-size:12px;
+	font-family:Arial;
+	color:#000000;
+}
+img{
+	border:0;
+}
+a:link,a:visited {
+	color:#000;
+	text-decoration:none;
+	border:0;
+}
+a:hover{
+	text-decoration:none;
+	color:#F0F;
+}
+a:active{
+	text-decoration:none;
+	color:#C96;
+}
+#layer{
+	margin:-8px auto -25px auto;
+	width:1026px;
+}
+#layer1{}
+#layer2{
+	overflow:hidden;
+}
+#layer21{
+	float:left;
+	width:219px;
+	margin-bottom:-5000px;
+	padding-bottom:5000px;
+	background-image:url(../images/admin_18.gif);
+}
+#layer22{
+	float:right;
+	margin-bottom:-5000px;
+	padding-bottom:5000px;
+}
+#layer221{
+	clear:both;
+	width:805px;
+}
+#layer222{
+	width:772px;
+	line-height:18px;
+	margin-left:16px;
+	margin-top:16px;
+}
+/*pmsource专属css开始*/
+#layer392{
+	padding-left:2px;
+	padding-right:2px;
+	line-height:20px;
+	background-color:#FFF;
+}
+#layer3921{
+	float:left;
+	margin-right: 12px;
+	margin-left: 14px;
+	margin-top: 10px;
+	margin-bottom: 6px;
+}
+#layer39211{
+	clear:both;
+	width:220px;
+	height:160px;
+}
+#layer39212{
+	width:220px;
+	height:20px;
+	margin-top:8px;
+	text-align:center;
+	font-size:14px;
+	background-color:#B3FFFF;
+}
+#layer393{
+	clear:both;
+	text-align:center;
+	height:15px;
+}
+/*pmsource专属css结束*/
+/*产品介绍专用css开始*/
+#layer3221{
+	clear:both;
+	margin:5px 0;
+}
+#layer32211{
+	height:22px;
+	padding-left:20px;
+	padding-top:3px;
+	font-size:15px;
+	background-color:#D7FFF2;
+}
+#layer32212{
+	height:150px;
+}
+#layer322121{
+	float:left;
+	width:150px;
+	height:150px;
+}
+#layer322122{
+	float:left;
+	width:420px;
+	padding:0 4px;
+	font-size:14px;
+	height:150px;
+	background-color:#A2E0FF;
+}
+#layer3222{
+	clear:both;
+	height:20px;
+	text-align:center;
+}
+/*产品介绍专用css结束*/
+/*layer222m为后台登录界面特殊div*/
+#layer222m{	
+	width:808px;
+	height:404px;
+	line-height:18px;
+	margin-left:-3px;
+	margin-bottom:0px;
+	margin-right:0px;
+	margin-top:0px;
+	background-color:#09C;
+}
+#layer3{
+	clear:both;
+	width:1024px;
+	height:75px;
+	background-image:url(../images/admin_19.gif);
+	text-align:center;
+}
+#layer31{
+	margin-left:50px;
+	margin-right:50px;
+	padding-top:6px;
+	font-size:13px;
+}
+#layer32{
+	margin-left:50px;
+	margin-right:50px;
+}
+/* for the page msgview.asp */
+.msgcontainer{
+	border:1px #399 solid;
+	margin:0 10px 10px 10px;
+}
+.msginfo{
+	height:25px;
+	line-height:25px;
+	background-color: #D9F2FF;
+	padding-left: 15px;
+	padding-bottom: 5px;
+	position: relative;
+}
+.msginfo img{
+	width:20px;
+	height:20px;
+	margin-top:5px;
+}
+.msgcontent{
+	padding:5px;
+	text-indent: 28px;
+	border-bottom: 1px #333 dotted;
+	font-size: 16px;
+}
+.msgcontact{
+	height:25px;
+	padding:0 5px;
+	line-height: 25px;
+}

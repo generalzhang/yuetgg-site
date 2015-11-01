@@ -1,0 +1,71 @@
+@charset "gb2312";
+/* CSS Document */
+img{border:0;}
+/*未访问的链接、已访问的链接*/
+a:link,a:visited {
+	color:#a09f9f;
+	text-decoration:none;
+	border:0;
+}  
+/*当鼠标停在链接上时*/
+a:hover{
+	text-decoration:none;
+	color:#F0F;
+} 
+/*被选中的链接*/
+a:active{
+	text-decoration:none;
+	color:#C96;
+}
+body{ background-image:url(../images/ofanzy_02.gif); background-repeat:repeat-x; font-size:12px; text-align:left;}
+#layer{ width:991px; height:912px; margin:0 auto; padding-top:17px; padding-bottom:15px; text-align:left;}
+#layer1{ width:991px; height:64px; text-align:center;}
+  #layer11{ float:left; width:387px; height:64px; margin-left:0px; display:inline;}
+  #layer12{ float:left; width:132px; height:59px; margin-left:400px; margin-top:5px;}
+    #layer121{ float:left; width:65px; height:16px;}
+	#layer122{ float:left; width:65px; height:16px;}
+#layer2{ clear:both; width:991px; height:62px; background-color:#FFF;}
+  #layer21{ float:left; width:979px; height:46px; margin-top:16px;}
+    #layer211{ float:left; width:17px; height:46px; margin-left:12px; display:inline;}
+	#layer212{ float:left; width:941px; height:46px; text-align:center; font-family:"黑体",宋体,Times New Roman,Georgia,Serif; font-size:14px; color:#FFF; background-image:url(../images/ofanzy_15.gif); background-repeat:repeat-x;}
+	  #layer2121{ float:left; width:68px; height:31px; padding-top:15px; margin-left:30px; display:inline; background-image:url(../images/ofanzy_15.gif); background-repeat:repeat-x;}
+	  #layer2122{ float:left; width:98px; height:31px; padding-top:15px; background-image:url(../images/ofanzy_15.gif); background-repeat:repeat-x;}
+	#layer213{ float:left; width:9px; height:46px;}
+  #layer22{ float:left; width:12px; height:62px;}
+#layer3{ clear:both; width:972px; height:328px; padding:8px 10px 0px 9px; background-color:#FFF;}
+#layer4{ width:991px; height:362px; padding-top:20px; padding-bottom:10px; background-color:#FFF;}
+  #layer41{ float:left; width:14px; height:362px;}
+  #layer42{ float:left; width:715px; height:362px;}
+    #layer421{ clear:both; width:715px; height:20px;}
+	  #layer4211{ float:left; width:25px; height:20px;}
+	  #layer4212{ float:left; width:610px; height:16px; padding-top:4px;}
+	  #layer4213{ float:left; width:51px; height:14px; padding-top:6px;}
+	#layer422{ clear:both; width:682px; height:2px;}
+	#layer423{ width:715px; height:152px;}
+	#layer424{ clear:both; width:715px; height:1px;}
+	#layer425{ width:715px; height:20px;}
+	  #layer4251{ float:left; width:25px; height:20px;}
+	  #layer4252{ float:left; width:610px; height:16px; padding-top:4px;}
+	  #layer4253{ float:left; width:51px; height:14px; padding-top:6px;}
+	#layer426{ clear:both; width:682px; height:2px;}
+	#layer427{ width:715px; height:165px;}
+  #layer43{ float:left; width:14px; height:362px;}
+  #layer44{ float:left; width:234px; height:362px;}
+    #layer441{ clear:both; width:234px; height:22px;}
+	  #layer4411{ float:left; width:29px; height:22px;}
+	  #layer4412{ float:left; width:154px; height:16px; padding-top:6px;}
+	  #layer4413{ float:left; width:51px; height:14px; padding-top:8px;}
+	#layer442{ clear:both; width:229px; height:2px;}
+	#layer443{ width:234px; height:137px;}
+	#layer444{ clear:both; width:234px; height:20px;}
+	  #layer4441{ float:left; width:27px; height:20px;}
+	  #layer4442{ float:left; width:156px; height:16px; padding-top:4px;}
+	  #layer4443{ float:left; width:51px; height:14px; padding-top:6px;}
+	#layer445{ clear:both; width:229px; height:2px;}
+	#layer446{ width:234px; height:179px;}
+  #layer45{ float:left; width:14px; height:362px;}
+#layer5{ clear:both; width:991px; height:50px; background-color:#FFF;}
+  #layer51{ float:left; width:368px; height:27px; margin-left:14px; padding-top:11px; font-size:13px; color:#FFF; text-align:center; display:inline; background-image:url(../images/ofanzy_51.gif); background-repeat:repeat-x;}
+  #layer52{ float:left; width:81px; height:37px;}
+  #layer53{ float:left; width:491px; height:37px; padding-left:37px; padding-top:11px; font-size:12px; color:#FF915B; text-align:center; background-image:url(../images/ofanzy_55.gif); background-repeat:repeat-x;}
+#layer6{ clear:both; width:991px; height:8px;}
